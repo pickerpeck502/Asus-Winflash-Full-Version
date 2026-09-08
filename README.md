@@ -242,3 +242,6 @@ This repository serves as the official landing page for ASUS WinFlash. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ASUS WinFlash today!**
+
+---
+**Last updated:** 2026-09-08 09:28:56 UTC
