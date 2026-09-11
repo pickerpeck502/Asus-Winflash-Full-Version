@@ -244,4 +244,4 @@ This repository serves as the official landing page for ASUS WinFlash. The softw
 **Get the most recent version of ASUS WinFlash today!**
 
 ---
-**Last updated:** 2026-09-11 18:19:16 UTC
+**Last updated:** 2026-09-11 21:37:56 UTC
